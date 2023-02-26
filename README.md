@@ -37,5 +37,5 @@ Users should be able to:
 - [Vite.js](https://vitejs.dev/) - Project Scaffolding
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/omosefe2020)
+- Frontend Mentor - [@omosefe2020](https://www.frontendmentor.io/profile/omosefe2020)
 - Twitter - [@sephiano1](https://www.twitter.com/sephiano1)
